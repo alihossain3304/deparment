@@ -1,0 +1,229 @@
+.header{
+   text-align: center;
+   font-size: 20px;
+   padding: 20px;
+   margin-left: 700px;
+   font-family: sans-serif;
+   }
+   .header a{
+      text-decoration: none;
+   
+   }
+   .header a:hover{
+      background-color: black;
+      color: white;
+      padding: 8px;
+      border-radius: 5px;
+      transition: 0.5s;
+   }
+   .image{
+      margin-left: 200px; 
+      display: flex;
+   }
+   header:hover{
+      background-color:#fff;
+      color: #000;
+   }
+   body{
+      background-color: antiquewhite;
+   }
+   .h3{
+      margin-left: 200px;
+      color: blue;
+      font-family: sans-serif; 
+     
+    } 
+    .img{
+      margin-inline: 750px;
+      
+   }
+   .h2{
+      margin-left: 200px;
+      font-size: 20px;
+      font-family: sans-serif;
+      
+   }
+   .p{
+      margin-left: 200px;
+      font-size:25px;
+      font-family: sans-serif;
+      color: red;
+   }
+   .h4{
+      font-family: sans-serif;
+      font-size: medium;
+      margin-left: 200px;
+      color:gray;
+      
+      
+   }
+   .download{
+      margin-left: 200px;
+      font-size: 30px;
+      border: 2px solid;
+      padding: 5px;
+      border-radius: 10px;
+     width: min-content;
+     color: blueviolet;
+     
+   }
+   .download:hover{
+      color:red;
+      background-color: black;
+   }
+ 
+   .light{
+      margin-left: 800px;
+   }
+   
+   .p1{
+      font-size: larger;
+      margin-left: 800px;
+      font-family: sans-serif;
+      text-align: center;
+      display: flex;
+   }
+   .ali{
+      margin-left: 785px;
+      
+   }
+   .p3{
+      font-size: larger;
+      margin-left: 850px;
+      font-family: sans-serif;
+      text-align: center;
+     display: flex;
+      
+   }
+   .about{
+      margin-left: 160px;
+      font-size: 60px;
+      display: flex;
+   
+   }
+   .aboutInfo{
+      
+   }
+   .h9{
+      text-align: center;
+      font-size: 30px;
+   }
+   .h9:hover{
+      color: royalblue;
+   }
+   
+   .h6{
+      margin-left: 300px;
+      font-size: 40px;
+      font-family: sans-serif;
+   }
+   .h6:hover{
+      color: red;
+   }
+   .t{
+      margin-left: 500px;
+      font-style: italic;
+      font-family: sans-serif;
+      
+   }
+   .t:hover{
+      color: blue;
+   }
+   .p7{
+      margin-left: 300px;
+      font-size: 40px;
+      font-family: sans-serif;
+   }
+   .p7:hover{
+      color:green;
+   }
+   .y{
+      margin-left: 500px;
+      font-style: italic;
+      font-family: sans-serif;
+      
+   }
+   .y:hover{
+      color:green;
+   }
+   
+   .skill:hover{
+      color:rgb(128, 0, 45);
+   } 
+   .skill{
+      margin-left: 300px;
+      font-size: 40px;
+      font-family: sans-serif;
+   }
+   .ab{
+      margin-left: 300px;
+      font-size: 40px;
+      font-family: sans-serif;
+
+   }  
+   .ab:hover{
+      color: rgb(207, 16, 16);
+   }   
+   .ba{
+      margin-left: 500px;
+      font-style: italic;
+      font-family: sans-serif;
+      
+   }
+   .ba:hover{
+      color:rgb(90, 0, 128);
+   }
+   .d{
+      margin-left: 200px;
+   }
+   .pic{
+      margin-left: 200px;
+      margin-top: 40px;
+      display: flex;
+      background-color: #000;
+   }
+   .pi{
+      margin-left: 200px;
+      margin-top: 80px;
+      display: flex; background-color: #000;
+   }
+   .h8{
+      text-align: center;
+      font-size: 30px;
+   }
+   .h8:hover{
+      color: rgba(54, 6, 51, 0.381);
+   }
+  .price{
+   margin-left: 200px;
+   font-size: 30px;
+   background-color: #fff  ;
+   display: inline-flex;
+   text-align: center;
+   box-shadow: 2px 3px 30px 10px black ;
+   border: 2px solid orange;
+   border-radius: 10px;
+  
+  }
+  .price1{
+   margin-left: 80px;
+   font-size: 30px;
+   background-color: rgb(250, 239, 22)  ;
+   display: inline-flex;
+   text-align: center;
+   box-shadow: 2px 3px 30px 10px black ;
+   border: 2px solid orange;
+   border-radius: 10px;
+  }
+  
+
+.price2{
+ margin-left: 80px;
+ font-size: 30px;
+ background-color: rgb(241, 243, 252)  ;
+ display: inline-flex;
+ text-align: center;
+ box-shadow: 2px 3px 30px 10px black ;
+ border: 2px solid orange;
+ border-radius: 10px;
+}
